@@ -62,4 +62,9 @@ p {
 	float:left;
 	margin-left:1.5%;
     margin-right:13%;
-	margin-top:0.5%}
+	margin-top:0.5%
+}
+.embed-container {
+        display: inline-block;
+        width: 450px; 
+        margin-left: 30px; }
